@@ -1,0 +1,17 @@
+body {
+    color: #000;
+    font-family: Verdana, Arial, Sans-Serif;
+    font-size: 16px;
+    max-width: 1200px;
+    background-color: #d3d3d3;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+}
